@@ -5,6 +5,11 @@ public class tc_002 {
 
     //Writing smoke test
 
+    //writing report
+    //taking screen shot
+     // meking some changes
+
+
 
 
 }
